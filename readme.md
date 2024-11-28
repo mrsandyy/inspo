@@ -3,3 +3,9 @@
  3. thecreatives
  4. thinkdiff
  5. inorc
+ 6. Nexster
+ 7. Zyonic
+ 8. Slicorn
+ 9. Slivir
+ 10. Sociux
+ 11. Syntrix
